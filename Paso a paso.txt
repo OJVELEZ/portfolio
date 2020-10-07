@@ -1,6 +1,3 @@
-# portfolio
-My Portfolio
-
 -1-Instalar Python
 0-Instalar Django
 	pip install django==3.0.3
